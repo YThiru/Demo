@@ -23,6 +23,9 @@ Stores Location - DEMO - API
    
    ![img_2.png](img_2.png)
 
+   Sample error page:
+   ![img_5.png](img_5.png)
+   
 5. To access swagger-API docs
    http://localhost:8080/demo/swagger-ui/index.html#/
    
